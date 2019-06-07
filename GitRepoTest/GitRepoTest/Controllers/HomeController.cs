@@ -11,6 +11,7 @@ namespace GitRepoTest.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //Test
             return View();
         }
 
